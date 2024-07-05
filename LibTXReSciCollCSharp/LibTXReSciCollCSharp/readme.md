@@ -1,6 +1,6 @@
 ﻿LibTXReSciCollCSharp is a .NET library that assists with creation of item-level metadata files for the USGS ReSciColl scientific sample collection database.
 
-Source code can be found on Github at the link below, or it can be installed via NuGet.
+Source code can be found on Github at the link below.
 https://github.com/ut-beg/LibTXReSciCollCSharp
 
 Once you have it installed and referenced in your project, it can be used like this:
